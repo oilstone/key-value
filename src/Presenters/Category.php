@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Packages\KeyValues\Presenters;
+namespace Oilstone\KeyValue;
 
 use Oilstone\Presenter\Factory as Presenter;
 use Oilstone\Presenter\Lookup;

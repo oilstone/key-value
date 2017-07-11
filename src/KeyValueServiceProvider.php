@@ -1,10 +1,10 @@
 <?php
 
-namespace Oilstone\KeyValues;
+namespace Oilstone\KeyValue;
 
-use Oilstone\KeyValues\Presenters\Categorized;
-use Oilstone\KeyValues\Presenters\Category;
-use Oilstone\KeyValues\Presenters\KeyValue;
+use Oilstone\KeyValue\Presenters\Categorized;
+use Oilstone\KeyValue\Presenters\Category;
+use Oilstone\KeyValue\Presenters\KeyValue;
 use Oilstone\Presenter\Factory as Presenter;
 use Illuminate\Support\ServiceProvider;
 
