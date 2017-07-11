@@ -1,0 +1,25 @@
+{
+    "name": "oilstone/key-value",
+    "description": "Key value helpers",
+    "keywords": [
+        "presenter"
+    ],
+    "homepage": "https://github.com/oilstone/key-value",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Online Solutions",
+            "email": "support@onlinesolutionsltd.com"
+        }
+    ],
+    "require": {
+        "php" : ">=7.1.0",
+        "illuminate/support" : "^5.4",
+        "oilstone/presenter" : "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Oilstone\\KeyValue\\": "src"
+        }
+    }
+}
