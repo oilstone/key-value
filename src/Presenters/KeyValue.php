@@ -1,6 +1,6 @@
 <?php
 
-namespace Oilstone\KeyValue;
+namespace Oilstone\KeyValue\Presenters;
 
 use Oilstone\Presenter\Eloquent;
 
